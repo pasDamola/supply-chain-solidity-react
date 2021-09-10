@@ -28,4 +28,7 @@ contract Item {
 
     }
 
+    // "0x55Efe08aCB2e327B7C6eE80656eCb8d5F528a131"
+    //0.0000000000000001
+
 }
